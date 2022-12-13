@@ -11,20 +11,24 @@ Tag: uni-app, vue, wechat, cloud development
 -   Click the card,&#x20;
 -   The cards are infinite, if cuisine is over, you would have blank cards.
 
-    ![](image/457cda8ccd553fb28a20ec07bdf7832_12z5j_SZDc.jpg)
+    <img src="image/457cda8ccd553fb28a20ec07bdf7832_12z5j_SZDc.jpg" alt="1" width="400"/>
+
 
 ### Category
 
 -   The page of categories and the sets of cuisine.
 
-![](image/6ec0727d292a352fab1897d633e1a0d_4m3g6iBoGG.jpg)
+    <img src="image/6ec0727d292a352fab1897d633e1a0d_4m3g6iBoGG.jpg" alt="2" width="400"/>
+
 
 ### My
 
 -   The page to login, check favorite and upload new cuisine.
--   ♥ is&#x20;
+-   ♥ is for opening favorite food page;
+-   Upload button allow users to upload new cuisine infor they discover.
 
-![](image/653689c999eb80d4c590214079dafc5_3vfcHYbWL6.jpg)
+    <img src="image/653689c999eb80d4c590214079dafc5_3vfcHYbWL6.jpg" alt="3" width="400"/>
+
 
 ### Add New Cuisine
 
@@ -33,4 +37,4 @@ Tag: uni-app, vue, wechat, cloud development
 -   Photos preview is available.&#x20;
 -   Auto getting location is available.
 
-![](image/f24d0155ace8d9e50117196af01afe0_qPZMGRAoYF.jpg)
+    <img src="image/f24d0155ace8d9e50117196af01afe0_qPZMGRAoYF.jpg" alt="1" width="400"/>
