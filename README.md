@@ -1,5 +1,3 @@
-# READ ME
-
 # Cuisine Dice
 
 Tag: uni-app, vue, wechat, cloud development
