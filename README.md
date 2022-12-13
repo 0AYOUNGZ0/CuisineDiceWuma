@@ -1,3 +1,5 @@
+[![NPM](https://img.shields.io/npm/l/vue-tinder)]()
+
 # Cuisine Dice
 
 Tag: uni-app, vue, wechat, cloud development
